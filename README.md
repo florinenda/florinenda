@@ -2,7 +2,7 @@
 
 <img align="left" src="https://media.giphy.com/media/N8ux2BsYiWN5sIYbfB/source.gif" width="400px"/>
 
-<p></a><img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/source.gif" width="30"><em> Web Developer Enthusiast</em></p>
+<p></a><img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/source.gif" width="30"><em> App & Web Developer Enthusiast</em></p>
 <p></a><img src="https://media.giphy.com/media/7IX8vUDnZRBELrqkfw/source.gif?raw=1" width="30vw"/> <em> Information Systems student</em></p>
 <p></a><img src="https://media.giphy.com/media/dAVvhaQiGONZVeYjhS/source.gif?raw=1" width="35vw"/> <em> Visual oriented</em></p>
 <p></a><img src="https://media.giphy.com/media/1wlWtflbknYsTbvahh/source.gif?raw=1" width="25vw"/> <em> Tech, design & music appreciator</em></p>
