@@ -9,7 +9,7 @@
 <p></a><img src="https://media.giphy.com/media/9JnWlOmpBhY04673E7/source.gif" width="45vw"/> <em> Most of the time, I'm coding while vibing on a R&B track </em></p>
 
 [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/florinenda)](https://github.com/florinenda)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florine-n-da/)](https://www.linkedin.com/in/florine-n-da/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florine-n-da/)](https://https://www.linkedin.com/in/hillary-nda?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-1db954?style=flat-square&labelColor=1db954&logo=gmail&logoColor=white&link=https://mailto:hillarynda0@gmail.com)](https://mailto:hillarynda0@gmail.com)
 
 
